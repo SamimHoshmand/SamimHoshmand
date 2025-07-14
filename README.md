@@ -37,7 +37,7 @@ Hi, I'm **Samim Hoshmand**, a passionate **Full-Stack Web Developer** and **Grap
 
 ## 📫 How to reach me
 
-📧 Email: your.email@example.com  
+📧 Email: samimhoshmand50@gmail.com  
 🌍 Portfolio: Coming Soon 
 💼 LinkedIn: https://www.linkedin.com/in/samim-khan-5352b1321/
 
