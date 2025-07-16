@@ -13,7 +13,6 @@ Hi, I'm **Samim Hoshmand**, a passionate **Full-Stack Web Developer** and **Grap
 
 ---
 
-## 🚀 Skills & Tools
 
 ## 🚀 Skills & Tools
 
@@ -27,11 +26,6 @@ Hi, I'm **Samim Hoshmand**, a passionate **Full-Stack Web Developer** and **Grap
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white)
 
----
-
-## ✨ Projects
-
-🌟 **All my projects are here:** [GitHub Repos](https://github.com/YOUR_USERNAME)
 
 ---
 
